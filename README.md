@@ -1,2 +1,2 @@
 # latinitas
-"""I made this in a bootcamp and it was purely for recreational purposes"""
+I made this in a bootcamp and it was purely for recreational purposes
